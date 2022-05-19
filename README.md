@@ -1,21 +1,6 @@
----
-title: '3-bit Histroy Predictor'
-disqus: hackmd
----
 
 110-2 ALCO Project 2 - 3-bit Histroy Predictor
 ===
- 
-
-## Table of Contents
-
-[TOC]
-
-
-
----
-
-
 
 2-bit Counter State Diagram
 ---
