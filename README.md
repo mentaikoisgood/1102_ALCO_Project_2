@@ -11,7 +11,7 @@
 3-bit Histroy Predictor
 ---
 共有$2^3$個2-bit Counter
-![](https://i.imgur.com/HLlAjlR.png)
+![](https://i.imgur.com/S3LQ251.png)
 
 
 
