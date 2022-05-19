@@ -4,7 +4,7 @@
 
 2-bit Counter State Diagram
 ---
-![](https://i.imgur.com/t12c9VC.png)
+![](https://i.imgur.com/KXcaJnG.png)
 
 
                     
