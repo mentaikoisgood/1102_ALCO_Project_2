@@ -1,8 +1,7 @@
-	addi R0, R0, 0 
-	addi R2, R0, 0  
-Loop:
-	beq R1, R2, End
-	addi R2, R2, -1 
-	beq R0, R0, Loop
-End:
-
+	    addi R0, R0, 0
+	    addi R2, R0, 4 
+    Loop:
+	    beq R1, R2, End
+	    addi R2, R2, -1 
+	    beq R0, R0, Loop
+    End:
