@@ -2,7 +2,8 @@
 1102 ALCO Project 2 - 3-bit Histroy Predictor
 (高分版)
 ===
- 
+   
+   
 
 2-bit Counter State Diagram
 ---
